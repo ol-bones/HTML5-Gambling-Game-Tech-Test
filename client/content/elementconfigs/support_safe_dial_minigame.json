@@ -1,0 +1,11 @@
+{
+    "spritesheet": "spritesheets/support_safe_dial_minigame",
+
+    "x": 1250,
+    "y": 500,
+
+    "width": 550,
+    "height": 550,
+
+    "behaviours": []
+}

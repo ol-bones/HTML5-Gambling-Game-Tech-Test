@@ -1,0 +1,11 @@
+{
+    "spritesheet": "spritesheets/screen_safe_background",
+
+    "x": 1250,
+    "y": 300,
+
+    "width": 600,
+    "height": 162,
+
+    "behaviours": []
+}

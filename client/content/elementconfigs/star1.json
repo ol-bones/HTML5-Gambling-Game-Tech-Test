@@ -1,0 +1,14 @@
+{
+    "spritesheet": "spritesheets/star",
+
+    "x": 400,
+    "y": 400,
+
+    "width": 128,
+    "height": 128,
+
+    "life": 5,
+    "startsize": 0,
+    "endsize": 250,
+    "speed": 1
+}

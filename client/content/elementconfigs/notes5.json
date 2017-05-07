@@ -1,0 +1,11 @@
+{
+    "spritesheet": "spritesheets/notes",
+
+    "x": 335,
+    "y": 535,
+
+    "width": 225,
+    "height": 225,
+
+    "behaviours": []
+}

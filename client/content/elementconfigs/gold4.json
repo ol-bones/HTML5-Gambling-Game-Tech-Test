@@ -1,0 +1,11 @@
+{
+    "spritesheet": "spritesheets/gold",
+
+    "x": 100,
+    "y": 535,
+
+    "width": 225,
+    "height": 225,
+
+    "behaviours": []
+}

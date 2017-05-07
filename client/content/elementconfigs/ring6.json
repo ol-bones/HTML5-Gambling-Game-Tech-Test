@@ -1,0 +1,11 @@
+{
+    "spritesheet": "spritesheets/ring",
+
+    "x": 570,
+    "y": 535,
+
+    "width": 225,
+    "height": 225,
+
+    "behaviours": []
+}

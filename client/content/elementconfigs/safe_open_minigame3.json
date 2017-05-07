@@ -1,0 +1,11 @@
+{
+    "spritesheet": "spritesheets/safe_open_minigame",
+
+    "x": 570,
+    "y": 300,
+
+    "width": 225,
+    "height": 225,
+
+    "behaviours": []
+}

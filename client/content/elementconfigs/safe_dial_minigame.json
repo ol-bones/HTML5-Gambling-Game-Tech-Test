@@ -1,0 +1,11 @@
+{
+    "spritesheet": "spritesheets/safe_dial_minigame",
+
+    "x": 1250,
+    "y": 535,
+
+    "width": 550,
+    "height": 525,
+
+    "behaviours": ["g_Game.play()"]
+}

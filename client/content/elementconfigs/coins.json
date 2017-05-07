@@ -1,0 +1,11 @@
+{
+    "spritesheet": "spritesheets/coins",
+
+    "x": 50,
+    "y": 50,
+
+    "width": 200,
+    "height": 164,
+
+    "behaviours": ["this.m_Spritesheet.m_CurrentFrame += 1;"]
+}
