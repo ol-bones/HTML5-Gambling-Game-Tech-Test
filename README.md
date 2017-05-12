@@ -4,7 +4,4 @@
 # Deadline: 1 week
 # Time spent: 16 hours
 
- Made all the features but didn't bother making final touches to make it look pretty
- the elements aren't aligned and sized properly, the fonts are wrong and
- the particles aren't activated (a particle class exists though, only 1 particle
- is emitted on page load).
+Feedback: "while the code was clean, did not use jquery or the specified framework"
